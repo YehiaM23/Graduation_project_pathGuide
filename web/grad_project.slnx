@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="grad_project.client/grad_project.client.esproj" />
+  <Project Path="grad_project.Server/grad_project.Server.csproj" />
+  <Project Path="grad_project.Tests/grad_project.Tests.csproj" />
+</Solution>
