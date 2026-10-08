@@ -1,0 +1,13 @@
+livekit-agents[openai,silero,turn-detector]~=1.5
+livekit-plugins-openai~=1.5
+langgraph>=0.2
+langchain>=0.3
+langchain-openai>=0.2
+langchain-community>=0.3
+chromadb>=0.5
+langchain-chroma>=1.0
+openai>=1.50
+python-dotenv>=1.0
+pypdf>=4.0
+Pillow>=10.0
+torch
